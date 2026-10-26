@@ -1,0 +1,2 @@
+The .pt checkpoint and images are intentionally not bundled. Copy the custom, verified checkpoint into weights/.
+Do not put Roboflow secrets, API keys, or personal credentials into source files or ZIP archives.
